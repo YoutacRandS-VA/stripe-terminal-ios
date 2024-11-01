@@ -20,3 +20,4 @@ let package = Package(
     )
   ]
 )
+import { Analytics } from "@vercel/analytics/react"
