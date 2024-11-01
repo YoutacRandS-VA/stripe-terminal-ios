@@ -8,7 +8,7 @@ DEPENDENCIES:
 
 SPEC REPOS:
   trunk:
-    - Alamofire
+    - master
 
 EXTERNAL SOURCES:
   Static:
